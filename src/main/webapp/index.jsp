@@ -53,3 +53,10 @@ function init(){SUBJECTS.forEach(([s])=>{ $('taskSubject').add(new Option(s,s));
 init();
 })();
 </script></body></html>
+^ < ! - -  
+ T e s t i n g  
+ J e n k i n s  
+ a u t o m a t i c  
+ b u i l d  
+ - - ^ >  
+ 
