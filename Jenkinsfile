@@ -17,7 +17,7 @@ pipeline {
 
         stage('Build Docker Image') {
             steps {
-                bat 'docker build -t smart-study-planner .'
+                bat '"C:\\Users\\Kavya\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t smart-study-planner .'
             }
         }
     }
